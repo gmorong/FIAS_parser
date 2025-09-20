@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+.Python
+venv/
+.env
+*.log
+logs/
+data/
+*.xml
+*.zip
+.DS_Store
+.pytest_cache/
+.coverage
+.env
